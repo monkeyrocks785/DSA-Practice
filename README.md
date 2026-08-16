@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -66,4 +68,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
