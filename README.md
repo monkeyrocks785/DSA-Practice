@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0053-maximum-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
