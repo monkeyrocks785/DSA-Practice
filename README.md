@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0169-majority-element) |
 ## Memoization
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -84,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
