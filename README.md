@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
