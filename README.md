@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 ## Linked List
 |  |
 | ------- |
@@ -117,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/monkeyrocks785/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
