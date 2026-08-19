@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/monkeyrocks785/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/monkeyrocks785/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/monkeyrocks785/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
