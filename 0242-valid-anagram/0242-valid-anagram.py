@@ -3,14 +3,18 @@ class Solution:
         if len(s) != len(t):
             return False
         
-        res = [0] * 26
+        count = {}
 
-        for i in range(len(s)):
-            res[ord(s[i]) - ord('a')] += 1
-            res[ord(t[i]) - ord('a')] -= 1
+        for i in s:
+            count[i] = count.get(i, 0) + 1
 
-        for check in res:
-            if check != 0:
+        for i in t:
+            if i not in count:
                 return False
-        
+
+            count[i] -= 1
+
+            if count[i] < 0:
+                return False
+            
         return True
