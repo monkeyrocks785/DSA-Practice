@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0118-pascals-triangle) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0344-reverse-string) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0242-valid-anagram) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0217-contains-duplicate) |
