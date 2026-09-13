@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/monkeyrocks785/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Trie
 |  |
 | ------- |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
