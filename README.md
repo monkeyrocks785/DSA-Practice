@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/monkeyrocks785/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [0647-palindromic-substrings](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 ## Backtracking
 |  |
