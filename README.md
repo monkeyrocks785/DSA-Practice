@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/monkeyrocks785/DSA-Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/monkeyrocks785/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/monkeyrocks785/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/monkeyrocks785/DSA-Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Quicksort
 |  |
 | ------- |
